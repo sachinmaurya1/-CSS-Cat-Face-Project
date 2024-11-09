@@ -2,6 +2,9 @@
 
 This project is a simple web page that displays a cat face illustration created with HTML and CSS. It demonstrates various CSS properties and positioning techniques to style and structure elements in a creative and visually appealing way.
 
+![image](https://github.com/user-attachments/assets/b32a515f-6659-4230-840e-fea7cf43b666)
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
